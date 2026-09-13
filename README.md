@@ -1,111 +1,172 @@
 <div align="center">
 
-# 💼 SmartBiz ERP
-
-### Smart Business Management & Enterprise Resource Planning System
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=750&lines=Smart+Business+Management;Desktop+ERP+Built+with+JavaFX;Manage+Employees+%7C+Inventory+%7C+Sales;Purchases+%7C+Payroll+%7C+Expenses;Reports+%26+Business+Analytics" alt="Typing Animation"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=220&section=header&text=SmartBiz%20ERP&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Smart%20Business%20Management%20%26%20Enterprise%20Resource%20Planning&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaFX-4285F4?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Desktop-ERP-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=3B82F6&center=true&vCenter=true&width=800&lines=Complete+Desktop+ERP+Solution;Built+with+Java+%26+JavaFX;Employees+%7C+Inventory+%7C+Sales+%7C+Purchases;Payroll+%7C+Expenses+%7C+Reports;Modern+Business+Management+in+One+Place" alt="Typing Animation"/>
 
 <br><br>
 
-**A complete desktop ERP solution for managing employees, inventory, sales, purchases, expenses, payroll, reports, and everyday business operations from one unified system.**
+<img src="https://img.shields.io/badge/☕_Java-17%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/🎨_JavaFX-Desktop-4285F4?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/💼_ERP-Business_System-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📊_Analytics-Included-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📜_License-MIT-10B981?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
 
-<br>
+<br><br>
 
 <a href="https://github.com/MUdevelops/SmartBiz-ERP">
 <img src="https://img.shields.io/badge/🚀_View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
+<a href="https://github.com/MUdevelops/SmartBiz-ERP/stargazers">
+<img src="https://img.shields.io/github/stars/MUdevelops/SmartBiz-ERP?style=for-the-badge&logo=github&label=Stars"/>
+</a>
+
+<a href="https://github.com/MUdevelops/SmartBiz-ERP">
+<img src="https://img.shields.io/github/repo-size/MUdevelops/SmartBiz-ERP?style=for-the-badge&logo=github&label=Repository%20Size"/>
+</a>
+
+<br><br>
+
+> **A complete JavaFX desktop ERP platform designed to bring employees, inventory, sales, purchases, expenses, payroll, reporting, and everyday business operations into one unified system.**
+
 </div>
 
 ---
 
-# 📌 About SmartBiz ERP
+# 🌟 Why SmartBiz ERP?
 
-**SmartBiz ERP** is a JavaFX-based desktop Enterprise Resource Planning application designed to centralize essential business operations in a single, easy-to-use platform.
+**SmartBiz ERP** is a business-management application built to demonstrate how multiple real-world business workflows can be organized inside a single desktop platform.
 
-Instead of managing employees, inventory, suppliers, sales, purchases, expenses, and payroll through separate systems, SmartBiz ERP brings these workflows together under one application.
+Instead of switching between separate tools for employees, stock, suppliers, sales, purchases, expenses, and payroll, SmartBiz ERP provides a **centralized management experience**.
 
-### 🎯 Built to help businesses:
+<div align="center">
 
-* 📊 Monitor business performance
-* 👥 Manage employees and departments
-* 📅 Track attendance
-* 📦 Control inventory and stock
-* 🚚 Manage suppliers
-* 💰 Handle sales and invoices
-* 🛒 Manage purchases and purchase orders
-* 💸 Track business expenses
-* 💵 Manage payroll
-* 📈 Generate reports
-* 🔔 Monitor notifications
-* ⚙️ Configure application settings
+|    💼 Business    |        👥 People        |     📦 Operations     |   📊 Intelligence   |
+| :---------------: | :---------------------: | :-------------------: | :-----------------: |
+| Sales & Purchases | Employees & Departments | Inventory & Suppliers | Reports & Analytics |
+|      Expenses     |        Attendance       | Products & Categories |   Dashboard & KPIs  |
+|      Payroll      |     Employee Records    |    Stock Management   |  Business Overview  |
+
+</div>
 
 ---
 
-# ✨ Core Features
+# ⚡ Core Modules
 
-| Module               | Capabilities                              |
-| -------------------- | ----------------------------------------- |
-| 📊 **Dashboard**     | KPIs, recent activity & business overview |
-| 👥 **Employees**     | Add, edit, delete & search employees      |
-| 🏢 **Departments**   | Create, edit & manage departments         |
-| 📅 **Attendance**    | Employee attendance management            |
-| 📦 **Inventory**     | Products, stock & inventory tracking      |
-| 🏷️ **Categories**   | Product category management               |
-| 🚚 **Suppliers**     | Supplier information & management         |
-| 💰 **Sales**         | Sales transactions & invoices             |
-| 🛒 **Purchases**     | Purchase orders & management              |
-| 💸 **Expenses**      | Business expense tracking                 |
-| 💵 **Payroll**       | Payroll records & salary processing       |
-| 📈 **Reports**       | Business reports & analytics              |
-| 🔔 **Notifications** | Centralized application notifications     |
-| ⚙️ **Settings**      | Application configuration                 |
-| 🌙 **Themes**        | Light & dark interface                    |
+<div align="center">
+
+### 📊 Dashboard
+
+**Business overview • KPIs • Recent activity**
+
+### 👥 Employees
+
+**Employee records • Search • Filters • CRUD operations**
+
+### 🏢 Departments
+
+**Department creation • Editing • Organization**
+
+### 📅 Attendance
+
+**Employee attendance management**
+
+### 📦 Inventory
+
+**Products • Stock • Categories**
+
+### 🚚 Suppliers
+
+**Supplier information • Supplier management**
+
+### 💰 Sales
+
+**Sales transactions • Invoice generation**
+
+### 🛒 Purchases
+
+**Purchase orders • Order management**
+
+### 💸 Expenses
+
+**Business expenses • Tracking • CRUD**
+
+### 💵 Payroll
+
+**Payroll records • Salary processing**
+
+### 📈 Reports
+
+**Business reporting • Analytics**
+
+### 🔔 Notifications
+
+**Centralized system notifications**
+
+### ⚙️ Settings
+
+**Application configuration • Themes**
+
+</div>
 
 ---
 
-# 🖥️ Application Screenshots
-
-> A complete visual walkthrough of SmartBiz ERP, organized by business workflow.
-
----
-
-## 📊 Dashboard
-
-### Main Dashboard
-
-<p align="center">
-<img src="Screenshots/Main%20Dashboard.png" width="48%" alt="SmartBiz ERP Main Dashboard"/>
-</p>
-
-### Recent Activity
+# 🎨 Application Highlights
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-<b>Recent Activity in Dashboard</b>
+## 📊 Business Dashboard
 
-<br><br>
-
-<img src="Screenshots/Recent%20Activity%20in%20Dashboard.png" width="100%" alt="Recent Activity in Dashboard"/>
+Monitor important business information from a centralized dashboard.
 
 </td>
+
 <td width="50%" align="center">
 
-<b>Dashboard Overview</b>
+## 👥 Workforce Management
 
-<br><br>
+Manage employees, departments and attendance efficiently.
 
-<img src="Screenshots/Main%20Dashboard.png" width="100%" alt="Main Dashboard"/>
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+## 📦 Inventory Control
+
+Keep track of products, categories, suppliers and stock.
+
+</td>
+
+<td width="50%" align="center">
+
+## 💰 Financial Operations
+
+Manage sales, purchases, expenses and payroll.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+## 📈 Reporting
+
+Turn business data into useful reports and insights.
+
+</td>
+
+<td width="50%" align="center">
+
+## 🌙 Modern UI
+
+Enjoy both light and dark interface experiences.
 
 </td>
 </tr>
@@ -113,9 +174,37 @@ Instead of managing employees, inventory, suppliers, sales, purchases, expenses,
 
 ---
 
-# 👥 Employee & Department Management
+# 🖥️ Application Showcase
 
-## Employee Management
+A complete visual walkthrough of the SmartBiz ERP desktop application.
+
+---
+
+## 📊 Dashboard
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### Main Dashboard
+
+<img src="Screenshots/Main%20Dashboard.png" width="100%" alt="SmartBiz ERP Main Dashboard"/>
+
+</td>
+
+<td width="50%" align="center">
+
+### Recent Activity
+
+<img src="Screenshots/Recent%20Activity%20in%20Dashboard.png" width="100%" alt="Recent Activity Dashboard"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 👥 Employee Management
 
 <table>
 <tr>
@@ -126,6 +215,7 @@ Instead of managing employees, inventory, suppliers, sales, purchases, expenses,
 <img src="Screenshots/Employees%20Management.png" width="100%" alt="Employees Management"/>
 
 </td>
+
 <td width="50%" align="center">
 
 ### Add New Employee
@@ -140,14 +230,15 @@ Instead of managing employees, inventory, suppliers, sales, purchases, expenses,
 
 ### Edit Employee
 
-<img src="Screenshots/Edit%20Employees.png" width="100%" alt="Edit Employees"/>
+<img src="Screenshots/Edit%20Employees.png" width="100%" alt="Edit Employee"/>
 
 </td>
+
 <td width="50%" align="center">
 
 ### Delete Employee
 
-<img src="Screenshots/Deleting%20Employee.png" width="100%" alt="Deleting Employee"/>
+<img src="Screenshots/Deleting%20Employee.png" width="100%" alt="Delete Employee"/>
 
 </td>
 </tr>
@@ -155,16 +246,17 @@ Instead of managing employees, inventory, suppliers, sales, purchases, expenses,
 <tr>
 <td width="50%" align="center">
 
-### Search by Name
+### Search Employee
 
-<img src="Screenshots/Search%20by%20name.png" width="100%" alt="Search Employee by Name"/>
+<img src="Screenshots/Search%20by%20name.png" width="100%" alt="Search Employee"/>
 
 </td>
+
 <td width="50%" align="center">
 
-### Filter by Department
+### Department Filter
 
-<img src="Screenshots/Filter%20by%20Department.png" width="100%" alt="Filter Employees by Department"/>
+<img src="Screenshots/Filter%20by%20Department.png" width="100%" alt="Filter by Department"/>
 
 </td>
 </tr>
@@ -172,7 +264,7 @@ Instead of managing employees, inventory, suppliers, sales, purchases, expenses,
 
 ---
 
-## 🏢 Department Management
+# 🏢 Department Management
 
 <table>
 <tr>
@@ -183,11 +275,12 @@ Instead of managing employees, inventory, suppliers, sales, purchases, expenses,
 <img src="Screenshots/Department%20Management.png" width="100%" alt="Department Management"/>
 
 </td>
+
 <td width="50%" align="center">
 
-### Add New Department
+### Add Department
 
-<img src="Screenshots/Add%20new%20Department.png" width="100%" alt="Add New Department"/>
+<img src="Screenshots/Add%20new%20Department.png" width="100%" alt="Add Department"/>
 
 </td>
 </tr>
@@ -200,7 +293,8 @@ Instead of managing employees, inventory, suppliers, sales, purchases, expenses,
 <img src="Screenshots/Edit%20Department.png" width="100%" alt="Edit Department"/>
 
 </td>
-<td width="50%" align="center">
+
+<td width="50%">
 
 </td>
 </tr>
@@ -208,33 +302,40 @@ Instead of managing employees, inventory, suppliers, sales, purchases, expenses,
 
 ---
 
-## 📅 Attendance Management
+# 📅 Attendance Management
 
-<p align="center">
-<img src="Screenshots/Attendance%20Management.png" width="75%" alt="Attendance Management"/>
-</p>
+<div align="center">
+
+<img src="Screenshots/Attendance%20Management.png" width="80%" alt="Attendance Management"/>
+
+<br>
+
+**Employee attendance management in a dedicated business module.**
+
+</div>
 
 ---
 
 # 📦 Inventory Management
 
-## Inventory Overview
+<div align="center">
 
-<p align="center">
 <img src="Screenshots/Inventory%20Management.png" width="85%" alt="Inventory Management"/>
-</p>
 
-## Product Management
+</div>
+
+### 📦 Product Operations
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-### Add New Product
+### Add Product
 
 <img src="Screenshots/Add%20New%20Product.png" width="100%" alt="Add New Product"/>
 
 </td>
+
 <td width="50%" align="center">
 
 ### Edit Product
@@ -252,6 +353,7 @@ Instead of managing employees, inventory, suppliers, sales, purchases, expenses,
 <img src="Screenshots/Delete%20Product.png" width="100%" alt="Delete Product"/>
 
 </td>
+
 <td width="50%" align="center">
 
 ### Add Stock
@@ -264,35 +366,41 @@ Instead of managing employees, inventory, suppliers, sales, purchases, expenses,
 
 ---
 
-## 🏷️ Category Management
+# 🏷️ Category Management
 
-<p align="center">
-<img src="Screenshots/Category%20Management.png" width="75%" alt="Category Management"/>
-</p>
+<div align="center">
+
+<img src="Screenshots/Category%20Management.png" width="80%" alt="Category Management"/>
+
+</div>
 
 ---
 
-## 🚚 Supplier Management
+# 🚚 Supplier Management
 
-<p align="center">
-<img src="Screenshots/Supplier%20Management.png" width="75%" alt="Supplier Management"/>
-</p>
+<div align="center">
+
+<img src="Screenshots/Supplier%20Management.png" width="80%" alt="Supplier Management"/>
+
+</div>
 
 ---
 
 # 💰 Sales Management
 
-## Sales Dashboard
+<div align="center">
 
-<p align="center">
 <img src="Screenshots/Sales%20Management.png" width="85%" alt="Sales Management"/>
-</p>
+
+</div>
 
 ## 🧾 Invoice Generation
 
-<p align="center">
+<div align="center">
+
 <img src="Screenshots/Invoice%20Generate.png" width="85%" alt="Invoice Generation"/>
-</p>
+
+</div>
 
 ---
 
@@ -307,6 +415,7 @@ Instead of managing employees, inventory, suppliers, sales, purchases, expenses,
 <img src="Screenshots/Purchase%20Management.png" width="100%" alt="Purchase Management"/>
 
 </td>
+
 <td width="50%" align="center">
 
 ### New Purchase Order
@@ -324,7 +433,8 @@ Instead of managing employees, inventory, suppliers, sales, purchases, expenses,
 <img src="Screenshots/Cancel%20PO.png" width="100%" alt="Cancel Purchase Order"/>
 
 </td>
-<td width="50%" align="center">
+
+<td width="50%">
 
 </td>
 </tr>
@@ -340,9 +450,10 @@ Instead of managing employees, inventory, suppliers, sales, purchases, expenses,
 
 ### Expense Management
 
-<img src="Screenshots/Expenses%20Management.png" width="100%" alt="Expenses Management"/>
+<img src="Screenshots/Expenses%20Management.png" width="100%" alt="Expense Management"/>
 
 </td>
+
 <td width="50%" align="center">
 
 ### Add Expense
@@ -360,6 +471,7 @@ Instead of managing employees, inventory, suppliers, sales, purchases, expenses,
 <img src="Screenshots/Edit%20Expenses.png" width="100%" alt="Edit Expense"/>
 
 </td>
+
 <td width="50%" align="center">
 
 ### Delete Expense
@@ -383,6 +495,7 @@ Instead of managing employees, inventory, suppliers, sales, purchases, expenses,
 <img src="Screenshots/Payroll%20Management.png" width="100%" alt="Payroll Management"/>
 
 </td>
+
 <td width="50%" align="center">
 
 ### Payroll Records
@@ -400,7 +513,8 @@ Instead of managing employees, inventory, suppliers, sales, purchases, expenses,
 <img src="Screenshots/Process%20Pending%20Salaries.png" width="100%" alt="Process Pending Salaries"/>
 
 </td>
-<td width="50%" align="center">
+
+<td width="50%">
 
 </td>
 </tr>
@@ -410,9 +524,15 @@ Instead of managing employees, inventory, suppliers, sales, purchases, expenses,
 
 # 📈 Reports & Analytics
 
-<p align="center">
+<div align="center">
+
 <img src="Screenshots/Report.png" width="85%" alt="SmartBiz ERP Reports"/>
-</p>
+
+<br><br>
+
+**Transform operational data into a clearer view of business performance.**
+
+</div>
 
 ---
 
@@ -427,6 +547,7 @@ Instead of managing employees, inventory, suppliers, sales, purchases, expenses,
 <img src="Screenshots/Notifications.png" width="100%" alt="Notifications"/>
 
 </td>
+
 <td width="50%" align="center">
 
 ### Clear Notifications
@@ -441,43 +562,50 @@ Instead of managing employees, inventory, suppliers, sales, purchases, expenses,
 
 # ⚙️ Settings & Themes
 
-## Settings
+## ⚙️ Application Settings
 
-<p align="center">
+<div align="center">
+
 <img src="Screenshots/Setting.png" width="70%" alt="SmartBiz ERP Settings"/>
-</p>
+
+</div>
 
 ## 🌙 Dark Theme
 
-<p align="center">
+<div align="center">
+
 <img src="Screenshots/Dark%20Theme.png" width="85%" alt="SmartBiz ERP Dark Theme"/>
-</p>
+
+</div>
 
 ---
 
-# 🧩 Complete Module Architecture
+# 🧩 System Architecture
 
 ```text
-                         ┌──────────────────────┐
-                         │     SmartBiz ERP     │
-                         │     JavaFX Desktop   │
-                         └──────────┬───────────┘
-                                    │
-          ┌─────────────────────────┼─────────────────────────┐
-          │                         │                         │
-          ▼                         ▼                         ▼
-     MANAGEMENT                 INVENTORY                  FINANCE
-          │                         │                         │
-    ┌─────┼─────┐           ┌───────┼───────┐        ┌──────┼──────┐
-    │     │     │           │       │       │        │      │      │
-Employees Dept Attendance  Products Categories Suppliers Sales Purchases
-                                                        │      │
-                                                        └──┬───┘
-                                                           │
-                                                    Expenses / Payroll
-                                                           │
-                                                           ▼
-                                                    REPORTS & ANALYTICS
+                         ┌─────────────────────────┐
+                         │      SMARTBIZ ERP       │
+                         │       JavaFX App        │
+                         └────────────┬────────────┘
+                                      │
+             ┌────────────────────────┼────────────────────────┐
+             │                        │                        │
+             ▼                        ▼                        ▼
+       👥 MANAGEMENT             📦 OPERATIONS             💰 FINANCE
+             │                        │                        │
+      ┌──────┼──────┐          ┌──────┼──────┐          ┌──────┼──────┐
+      │      │      │          │      │      │          │      │      │
+ Employees  Dept  Attendance Products Categories Suppliers Sales Purchases
+                                                           │       │
+                                                           └───┬───┘
+                                                               │
+                                                         Expenses
+                                                               │
+                                                            Payroll
+                                                               │
+                                                               ▼
+                                                       📈 REPORTS
+                                                       & ANALYTICS
 ```
 
 ---
@@ -486,14 +614,14 @@ Employees Dept Attendance  Products Categories Suppliers Sales Purchases
 
 <div align="center">
 
-| Technology                | Role                        |
-| ------------------------- | --------------------------- |
-| ☕ **Java**                | Core programming language   |
-| 🎨 **JavaFX**             | Desktop UI framework        |
-| 📊 **JavaFX Charts**      | Business visualization      |
-| 🗂️ **Java Collections**  | Application data management |
-| 🕒 **Java Time API**      | Date & time handling        |
-| 💾 **Local Data Storage** | Application persistence     |
+|         Technology        | Purpose                          |
+| :-----------------------: | :------------------------------- |
+|         ☕ **Java**        | Core application development     |
+|       🎨 **JavaFX**       | Desktop graphical user interface |
+|    📊 **JavaFX Charts**   | Data visualization               |
+|  🗂️ **Java Collections** | Application data management      |
+|    🕒 **Java Time API**   | Date & time operations           |
+| 💾 **Local Data Storage** | Application persistence          |
 
 </div>
 
@@ -501,42 +629,58 @@ Employees Dept Attendance  Products Categories Suppliers Sales Purchases
 
 # 🚀 Getting Started
 
-## 1. Clone the Repository
+## 📋 Prerequisites
 
-```bash
-git clone https://github.com/MUdevelops/SmartBiz-ERP.git
-cd SmartBiz-ERP
-```
+Before running SmartBiz ERP, make sure you have:
 
-## 2. Requirements
+* ☕ Java JDK installed
+* 🎨 JavaFX SDK configured
+* 💻 Java-compatible IDE
+* 🖥️ Desktop environment capable of running JavaFX
 
-Make sure you have:
-
-* ☕ Java JDK
-* 🎨 JavaFX SDK
-* 💻 A Java-compatible IDE
-
-Verify Java:
+Check your Java installation:
 
 ```bash
 java -version
 ```
 
-Verify the compiler:
+Check the Java compiler:
 
 ```bash
 javac -version
 ```
 
-## 3. Run
+---
 
-Open the project in your preferred Java IDE and configure JavaFX.
+## 1️⃣ Clone the Repository
 
-Run:
+```bash
+git clone https://github.com/MUdevelops/SmartBiz-ERP.git
+```
+
+```bash
+cd SmartBiz-ERP
+```
+
+---
+
+## 2️⃣ Open the Project
+
+Open the project using your preferred Java IDE and configure the JavaFX runtime according to your environment.
+
+---
+
+## 3️⃣ Run the Application
+
+Locate the main application class:
 
 ```text
 SmartBizERP.java
 ```
+
+Run the application from your IDE.
+
+> 💡 **Tip:** Make sure your JavaFX libraries and runtime configuration are correctly connected before launching the application.
 
 ---
 
@@ -547,7 +691,11 @@ SmartBiz-ERP/
 │
 ├── 📁 Screenshots/
 │   ├── Main Dashboard.png
+│   ├── Recent Activity in Dashboard.png
 │   ├── Employees Management.png
+│   ├── Add New Employee.png
+│   ├── Edit Employees.png
+│   ├── Deleting Employee.png
 │   ├── Inventory Management.png
 │   ├── Sales Management.png
 │   ├── Purchase Management.png
@@ -562,59 +710,76 @@ SmartBiz-ERP/
 
 ---
 
-# 🎯 Project Highlights
+# 💎 Project Highlights
 
-### 💼 Complete Business Workflow
+<div align="center">
 
-SmartBiz ERP connects multiple business operations inside one application.
+### 🧠 Centralized Management
 
-### 🖥️ Desktop-First Experience
+Manage multiple business operations from one application.
 
-Built with JavaFX to provide a dedicated desktop business-management interface.
+### ⚡ Practical Architecture
 
-### 📊 Data Visibility
+Designed around real-world business workflows rather than isolated demonstrations.
 
-Dashboards, reports, recent activity and business modules make important information easier to monitor.
+### 🎨 User-Friendly Interface
 
-### 🎨 Modern Interface
+Clean navigation, organized modules and visual dashboards.
 
-The application includes organized navigation, visual dashboards and theme support.
+### 📊 Business Visibility
 
-### 🧩 Modular Functionality
+Dashboard, reports, notifications and analytics provide a centralized view of operations.
 
-Different business areas are separated into dedicated modules while remaining part of one ERP platform.
+### 🌙 Theme Support
+
+Light and dark interface options for a more comfortable experience.
+
+### 🧩 Modular Design
+
+Business functionality is divided into focused modules while remaining part of one ERP ecosystem.
+
+</div>
 
 ---
 
-# 🔮 Future Enhancements
+# 🔮 Future Roadmap
 
-Potential future improvements include:
+The project can be extended with:
 
-* 🔐 User authentication & role-based access
-* 🗄️ MySQL/PostgreSQL database integration
+* 🔐 Authentication & role-based access control
+* 🗄️ MySQL / PostgreSQL integration
 * ☁️ Cloud synchronization
-* 🌐 Web-based ERP version
+* 🌐 Web-based ERP edition
 * 📱 Mobile companion application
 * 📄 Advanced PDF invoice generation
-* 📤 Excel/CSV export
+* 📤 Excel / CSV export
 * 📊 Advanced business analytics
 * 🔄 Automated database backups
-* 🛡️ Audit logs
-* 🌍 Multi-branch business support
+* 🛡️ Audit logging
+* 🌍 Multi-branch business management
+* 🔔 Advanced real-time notifications
 
 ---
 
 # 🤝 Contributing
 
-Contributions and suggestions are welcome.
+Contributions, improvements and ideas are welcome.
 
 ```bash
-# Fork the repository
-# Create a feature branch
-# Make your changes
-# Commit your changes
-# Push your branch
-# Open a Pull Request
+# 1. Fork the repository
+
+# 2. Create a feature branch
+git checkout -b feature/your-feature
+
+# 3. Make your changes
+
+# 4. Commit your work
+git commit -m "Add your feature"
+
+# 5. Push your branch
+git push origin feature/your-feature
+
+# 6. Open a Pull Request
 ```
 
 ---
@@ -623,7 +788,7 @@ Contributions and suggestions are welcome.
 
 This project is licensed under the **MIT License**.
 
-See the [`LICENSE`](LICENSE) file for details.
+See the [`LICENSE`](LICENSE) file for more information.
 
 ---
 
@@ -631,20 +796,16 @@ See the [`LICENSE`](LICENSE) file for details.
 
 <div align="center">
 
-## Muhammad Umar Jamal
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Muhammad+Umar+Jamal;Software+Developer;BSCS+Student;Building+Practical+Software+Solutions" alt="Developer Animation"/>
 
-### Software Developer | BSCS Student
-
-Building practical software solutions with a focus on application development, automation and real-world problem solving.
-
-<br>
+<br><br>
 
 <a href="https://github.com/MUdevelops">
 <img src="https://img.shields.io/badge/GitHub-MUdevelops-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://m-umar-jamal.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
@@ -653,14 +814,16 @@ Building practical software solutions with a focus on application development, a
 
 <div align="center">
 
-### ⭐ Like the project?
+## ⭐ Support the Project
 
-**Give SmartBiz ERP a star on GitHub!**
+If you found **SmartBiz ERP** interesting or useful, consider giving the repository a ⭐.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=150&section=footer&animation=fadeIn" width="100%"/>
 
-### Built with ☕ Java & 🎨 JavaFX
+### ☕ Built with Java  •  🎨 JavaFX  •  💼 Business Logic
+
+**SmartBiz ERP — One Platform. Smarter Business Management.**
 
 </div>
