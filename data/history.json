@@ -1,0 +1,18 @@
+[
+  {
+    "expression": "0.83",
+    "result": "83/100"
+  },
+  {
+    "expression": "log(6)",
+    "result": "463/595"
+  },
+  {
+    "expression": "2+3*4",
+    "result": "14"
+  },
+  {
+    "expression": "(10*2)/4",
+    "result": "5"
+  }
+]
