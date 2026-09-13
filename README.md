@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=220&section=header&text=SmartBiz%20ERP&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Smart%20Business%20Management%20%26%20Enterprise%20Resource%20Planning&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:2563EB,50:7C3AED,100:06B6D4&height=220&section=header&text=SmartBiz%20ERP&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Smart%20Business%20Management%20ERP&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="SmartBiz ERP Header"/>
 
 <br>
 
