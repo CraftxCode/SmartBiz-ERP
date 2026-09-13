@@ -1,0 +1,99 @@
+SmartBiz ERP data export
+Generated	2026-09-13T09:46:30.651873500
+
+COMPANY	TechVision Solutions (Pvt) Ltd	Muhammad Umar	info@techvision.pk	+92-300-1234567	Main Boulevard, Okara, Punjab, Pakistan	Rs.
+DEPARTMENT	DEP-01	Information Technology	Umar Farooq	Handles all IT infrastructure and software	3
+DEPARTMENT	DEP-02	Human Resources	Ayesha Malik	Manages recruitment and employee relations	2
+DEPARTMENT	DEP-03	Finance & Accounts	Hassan Raza	Handles accounting, payroll and budgeting	2
+DEPARTMENT	DEP-04	Sales & Marketing	Sara Ahmed	Drives revenue and brand awareness	2
+DEPARTMENT	DEP-05	Operations	Tariq Mehmood	Manages daily business operations	1
+DEPARTMENT	DEP-06	Management	Rao Umar	Executive leadership and strategy	0
+EMPLOYEE	EMP-101	Ahmed Ali	Muhammad Ali	ahmed@techvision.pk	0300-1111111	Information Technology	Senior Developer	01-Jan-2022	85000.0	Active
+EMPLOYEE	EMP-102	Sara Khan	Imran Khan	sara@techvision.pk	0300-2222222	Human Resources	HR Manager	15-Mar-2021	70000.0	Active
+EMPLOYEE	EMP-103	Hassan Raza	Raza Ullah	hassan@techvision.pk	0300-3333333	Finance & Accounts	Accountant	10-Jun-2020	65000.0	Active
+EMPLOYEE	EMP-104	Ayesha Malik	Malik Rafiq	ayesha@techvision.pk	0300-4444444	Sales & Marketing	Sales Executive	20-Aug-2022	55000.0	Active
+EMPLOYEE	EMP-105	Usman Tariq	Tariq Hussain	usman@techvision.pk	0300-5555555	Information Technology	Junior Developer	05-Feb-2023	45000.0	Active
+EMPLOYEE	EMP-106	Fatima Zahra	Zaheer Ahmed	fatima@techvision.pk	0300-6666666	Operations	Operations Manager	12-Nov-2019	90000.0	Active
+EMPLOYEE	EMP-107	Bilal Hussain	Hussain Khan	bilal@techvision.pk	0300-7777777	Sales & Marketing	Marketing Analyst	08-Apr-2022	52000.0	Active
+EMPLOYEE	EMP-108	Zara Ahmed	Ahmed Siddiqui	zara@techvision.pk	0300-8888888	Human Resources	HR Executive	25-Sep-2023	42000.0	Active
+EMPLOYEE	EMP-109	Kamran Sheikh	Sheikh Azhar	kamran@techvision.pk	0300-9999999	Information Technology	DevOps Engineer	14-Jul-2021	80000.0	Active
+EMPLOYEE	EMP-110	Nadia Parveen	Parveen Akhtar	nadia@techvision.pk	0301-1234567	Finance & Accounts	Finance Officer	30-Jan-2022	58000.0	On Leave
+ATTENDANCE	ATT-0001	EMP-101	Ahmed Ali	13-Sep-2026	08:55 AM	17:00 PM	Present
+ATTENDANCE	ATT-0002	EMP-102	Sara Khan	13-Sep-2026	09:02 AM	17:00 PM	Present
+ATTENDANCE	ATT-0003	EMP-103	Hassan Raza	13-Sep-2026	08:48 AM	17:00 PM	Present
+ATTENDANCE	ATT-0004	EMP-104	Ayesha Malik	13-Sep-2026	09:15 AM	17:00 PM	Present
+ATTENDANCE	ATT-0005	EMP-105	Usman Tariq	13-Sep-2026	09:30 AM	17:00 PM	Present
+ATTENDANCE	ATT-0006	EMP-106	Fatima Zahra	13-Sep-2026	08:40 AM	17:00 PM	Present
+ATTENDANCE	ATT-0007	EMP-107	Bilal Hussain	13-Sep-2026	09:05 AM	17:00 PM	Present
+ATTENDANCE	ATT-0008	EMP-109	Kamran Sheikh	13-Sep-2026	08:50 AM	17:00 PM	Present
+ATTENDANCE	ATT-0009	EMP-109	Zara Ahmed	13-Sep-2026	-	-	Absent
+CATEGORY	CAT-01	Electronics	Electronic devices and accessories	4
+CATEGORY	CAT-02	Office Supplies	Stationery and office consumables	2
+CATEGORY	CAT-03	Furniture	Office and workspace furniture	2
+CATEGORY	CAT-04	Software	Software licenses and subscriptions	2
+CATEGORY	CAT-05	Accessories	Computer and mobile accessories	3
+CATEGORY	CAT-06	Networking	Network equipment and cables	2
+SUPPLIER	SUP-001	Ali Hassan	TechMart Pakistan	0300-1234567	ali@techmart.pk	Lahore, Punjab	Paid
+SUPPLIER	SUP-002	Bilal Ahmed	Office World	0321-9876543	bilal@offworld.pk	Karachi, Sindh	Pending
+SUPPLIER	SUP-003	Zainab Raza	FurniCorp PK	0333-5678901	zainab@furni.pk	Islamabad, ICT	Paid
+SUPPLIER	SUP-004	Kamran Sheikh	NetSolutions	0345-2345678	kamran@netsl.pk	Faisalabad, Punjab	Pending
+SUPPLIER	SUP-005	Nadia Malik	Accessory Hub	0311-3456789	nadia@acchub.pk	Multan, Punjab	Paid
+PRODUCT	PRD-1001	Dell Laptop 15"	Electronics	DL-001	TechMart Pakistan	95000.0	115000.0	8	3	IN STOCK
+PRODUCT	PRD-1002	HP LaserJet Pro	Electronics	HJ-002	TechMart Pakistan	35000.0	42000.0	5	2	IN STOCK
+PRODUCT	PRD-1003	Office Chair	Furniture	OC-003	FurniCorp PK	8500.0	12000.0	2	4	LOW STOCK
+PRODUCT	PRD-1004	Executive Desk	Furniture	ED-004	FurniCorp PK	22000.0	28000.0	6	2	IN STOCK
+PRODUCT	PRD-1005	Wireless Mouse	Accessories	WM-005	Accessory Hub	1500.0	2200.0	25	10	IN STOCK
+PRODUCT	PRD-1006	Mechanical Keyboard	Accessories	MK-006	Accessory Hub	4500.0	6500.0	18	5	IN STOCK
+PRODUCT	PRD-1007	24" Monitor	Electronics	MN-007	TechMart Pakistan	28000.0	35000.0	7	3	IN STOCK
+PRODUCT	PRD-1008	A4 Paper Ream	Office Supplies	AP-008	Office World	800.0	1200.0	50	15	IN STOCK
+PRODUCT	PRD-1009	Stapler Set	Office Supplies	SS-009	Office World	350.0	600.0	30	10	IN STOCK
+PRODUCT	PRD-1010	Network Switch 24-Port	Networking	NS-010	NetSolutions	12000.0	16000.0	4	2	IN STOCK
+PRODUCT	PRD-1011	CAT6 Cable (100m)	Networking	CC-011	NetSolutions	5500.0	7500.0	10	3	IN STOCK
+PRODUCT	PRD-1012	USB Hub 7-Port	Accessories	UH-012	Accessory Hub	1200.0	1800.0	20	8	IN STOCK
+PRODUCT	PRD-1013	Microsoft Office 2024	Software	MS-013	TechMart Pakistan	18000.0	22000.0	2	1	IN STOCK
+PRODUCT	PRD-1014	Antivirus License	Software	AV-014	TechMart Pakistan	3500.0	5000.0	15	5	IN STOCK
+PRODUCT	PRD-1015	Webcam HD 1080p	Electronics	WC-015	TechMart Pakistan	4500.0	6500.0	0	3	OUT OF STOCK
+SALE	INV-1042	Zaheer Traders	13-Sep-2026	Paid	127000.0	500.0	6325.0	132825.0	2
+SALE	INV-1043	Ali Enterprises	12-Sep-2026	Paid	140000.0	1000.0	6950.0	145950.0	2
+SALE	INV-1044	Khan & Sons	11-Sep-2026	Paid	38200.0	1500.0	1835.0	38535.0	2
+SALE	INV-1045	Tech Park Ltd	10-Sep-2026	Paid	41000.0	2000.0	1950.0	40950.0	2
+SALE	INV-1046	City Electronics	09-Sep-2026	Paid	39400.0	2500.0	1845.0	38745.0	2
+SALE	INV-1047	Global Systems	08-Sep-2026	Paid	21900.0	3000.0	945.0	19845.0	2
+SALE	INV-1048	Pak Office Hub	07-Sep-2026	Paid	35600.0	3500.0	1605.0	33705.0	2
+SALE	INV-1049	Sunrise Corp	06-Sep-2026	Paid	34400.0	4000.0	1520.0	31920.0	2
+SALE	INV-1050	Digital Solutions	05-Sep-2026	Paid	9300.0	4500.0	240.0	5040.0	2
+SALE	INV-1051	Fast Forward Ltd	04-Sep-2026	Paid	19600.0	5000.0	730.0	15330.0	2
+SALE	INV-1052	ALI	13-Sep-2026	Paid	120000.0	0.0	6000.0	126000.0	1
+PURCHASE	PO-2001	Ali Hassan	PRD-1001	Dell Laptop 15"	10	95000.0	950000.0	13-Sep-2026	Approved
+PURCHASE	PO-2002	Bilal Ahmed	PRD-1003	Office Chair	12	8500.0	102000.0	11-Sep-2026	Approved
+PURCHASE	PO-2003	Zainab Raza	PRD-1005	Wireless Mouse	14	1500.0	21000.0	09-Sep-2026	Received
+PURCHASE	PO-2004	Kamran Sheikh	PRD-1007	24" Monitor	16	28000.0	448000.0	07-Sep-2026	Cancelled
+PURCHASE	PO-2005	Nadia Malik	PRD-1009	Stapler Set	18	350.0	6300.0	05-Sep-2026	Pending
+EXPENSE	EXP-3001	Office Rent	Rent	75000.0	01-Sep-2026	Monthly office rent	Bank Transfer
+EXPENSE	EXP-3002	Electricity Bill	Utilities	18000.0	02-Sep-2026	LESCO monthly bill	Online
+EXPENSE	EXP-3003	Internet Connection	Utilities	8500.0	03-Sep-2026	Fiber broadband monthly	Bank Transfer
+EXPENSE	EXP-3004	Marketing Campaign	Marketing	35000.0	05-Sep-2026	Facebook & Google Ads	Online
+EXPENSE	EXP-3005	Office Stationery	Office	5500.0	08-Sep-2026	Pens, paper, files	Cash
+EXPENSE	EXP-3006	Vehicle Fuel	Transport	12000.0	10-Sep-2026	Company vehicle fuel	Cash
+EXPENSE	EXP-3007	Equipment Maintenance	Maintenance	15000.0	12-Sep-2026	AC and computer maintenance	Bank Transfer
+EXPENSE	EXP-3008	Team Lunch	Other	9500.0	15-Sep-2026	Monthly team lunch	Cash
+EXPENSE	EXP-3009	Software Subscription	Office	22000.0	18-Sep-2026	Cloud software licenses	Online
+EXPENSE	EXP-3010	Training Workshop	Other	28000.0	20-Sep-2026	Employee training session	Bank Transfer
+PAYROLL	PAY-0001	EMP-101	Ahmed Ali	Information Technology	September 2026	85000.0	8500.0	4250.0	1000.0	88250.0	Paid	05-Sep-2026
+PAYROLL	PAY-0002	EMP-102	Sara Khan	Human Resources	September 2026	70000.0	7000.0	3500.0	1000.0	72500.0	Paid	13-Sep-2026
+PAYROLL	PAY-0003	EMP-103	Hassan Raza	Finance & Accounts	September 2026	65000.0	6500.0	3250.0	1000.0	67250.0	Paid	05-Sep-2026
+PAYROLL	PAY-0004	EMP-104	Ayesha Malik	Sales & Marketing	September 2026	55000.0	5500.0	2750.0	1000.0	56750.0	Paid	05-Sep-2026
+PAYROLL	PAY-0005	EMP-105	Usman Tariq	Information Technology	September 2026	45000.0	4500.0	2250.0	1000.0	46250.0	Paid	13-Sep-2026
+PAYROLL	PAY-0006	EMP-106	Fatima Zahra	Operations	September 2026	90000.0	9000.0	4500.0	1000.0	93500.0	Paid	13-Sep-2026
+PAYROLL	PAY-0007	EMP-107	Bilal Hussain	Sales & Marketing	September 2026	52000.0	5200.0	2600.0	1000.0	53600.0	Paid	13-Sep-2026
+PAYROLL	PAY-0008	EMP-108	Zara Ahmed	Human Resources	September 2026	42000.0	4200.0	2100.0	1000.0	43100.0	Paid	13-Sep-2026
+PAYROLL	PAY-0009	EMP-109	Kamran Sheikh	Information Technology	September 2026	80000.0	8000.0	4000.0	1000.0	83000.0	Paid	13-Sep-2026
+PAYROLL	PAY-0010	EMP-110	Nadia Parveen	Finance & Accounts	September 2026	58000.0	5800.0	2900.0	1000.0	59900.0	Paid	05-Sep-2026
+ACTIVITY	● Bulk payroll processed for 6 employees  •  Just now
+ACTIVITY	● Purchase Order PO-2001 approved  •  Just now
+ACTIVITY	● Invoice INV-1052 created for ALI — Rs. 126,000  •  Just now
+ACTIVITY	● Invoice #INV-1042 created for Zaheer Traders  •  2 min ago
+ACTIVITY	● Ahmed Ali checked in at 08:55 AM  •  8 min ago
+ACTIVITY	● Product 'Wireless Mouse' stock updated  •  15 min ago
+ACTIVITY	● Salary processed for September 2026  •  1 hour ago
+ACTIVITY	● New supplier 'Accessory Hub' added  •  3 hours ago
