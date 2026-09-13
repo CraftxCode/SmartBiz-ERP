@@ -827,5 +827,5 @@ If you found **SmartBiz ERP** interesting or useful, consider giving the reposit
 **SmartBiz ERP — One Platform. Smarter Business Management.**
 
 </div>
-Co-authored-by: username <username@craftxcode.github.com>
+Co-authored-by: Craft x Code <username@craftxcode.github.com>
 
