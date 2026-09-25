@@ -690,17 +690,6 @@ Run the application from your IDE.
 SmartBiz-ERP/
 │
 ├── 📁 Screenshots/
-│   ├── Main Dashboard.png
-│   ├── Recent Activity in Dashboard.png
-│   ├── Employees Management.png
-│   ├── Add New Employee.png
-│   ├── Edit Employees.png
-│   ├── Deleting Employee.png
-│   ├── Inventory Management.png
-│   ├── Sales Management.png
-│   ├── Purchase Management.png
-│   ├── Payroll Management.png
-│   ├── Report.png
 │   └── ...
 │
 ├── 📄 SmartBizERP.java
@@ -822,7 +811,7 @@ If you found **SmartBiz ERP** interesting or useful, consider giving the reposit
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=150&section=footer&animation=fadeIn" width="100%"/>
 
-### ☕ Built with JavaFX  •  🎨 Java  •  💼 Business Logic
+### ☕ Built with Java  •  🎨 JavaFX  •  💼 Business Logic
 
 **SmartBiz ERP — One Platform. Smarter Business Management.**
 
