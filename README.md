@@ -811,11 +811,13 @@ If you found **SmartBiz ERP** interesting or useful, consider giving the reposit
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:06B6D4&height=150&section=footer&animation=fadeIn" width="100%"/>
 
-### ☕ Built with Java  •  🎨 JavaFX  •  💼 Business Logic
+
+### ☕ Built with JavaFX •  🎨 Java •  💼 Business Logic
+
 
 **SmartBiz ERP — One Platform. Smarter Business Management.**
 
 </div>
-Co-authored-by: Craft x Code <craftxcode@users.noreply.github.com>
+
 
 
